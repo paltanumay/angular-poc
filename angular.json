@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "angular-poc"
+  "defaultProject": "angular-poc",
+  "cli": {
+    "analytics": "ce72e456-c774-45e6-a442-d3dac97814e1"
+  }
 }
